@@ -9,18 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-* Intership at [DiDi Inc.](<https://www.didiglobal.com/>)
-  * Nov. 2019 - Present
-  * Hangzhou, China
-  * Explore reinforcement learning in recommendation system
-* [PAKDD 2019](<https://pakdd2019.medmeeting.org/en>)
-  * 14 - 17 Apr. 2019
-  * Macau, China
-  * Attent the BDM workshop and present talks [[photo](/images/pakdd-1.jpeg)]
-* [KDD China 2019](<http://kddchina.org/#/Content/fenghui2019>)
-  * 19 Jan. 2019
-  * Shenzhen, China
-  * Attent the conference as a volunteer [[photo](/images/kdd-china1.jpg)], [[photo](/images/kdd-china2.jpg)], [[photo](/images/kdd-china3.jpg)], [[photo](/images/kdd-china4.jpg)]
-* Student Researcher Assistant at [BDSC](<http://bdsc.szu.edu.cn/>)
-  * May. 2017 - May. 2019
-  * Supervised by Prof. [Joshua Zhexue Huang](<https://ieeexplore.ieee.org/author/37081979900>)
+* Student Research Assistant at Tianjin Key Laboratory of Autonomous Intelligence Technology and Systems
+  * Oct. 2019 - Present
+  * Tianjin, China
+  * Explore reinforcement learning in  computer vision and nlp
+* Student  at [TGU](<http://www.tjpu.edu.cn/>)
+  * Sep. 2016 - May. 2019
+  * Supervised by Prof. [Jianmin Wang](<https://daoshi.eol.cn/tutor/34103>)
+  * Tianjin, China
