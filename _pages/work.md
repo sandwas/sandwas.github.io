@@ -16,7 +16,7 @@ redirect_from:
  
  * Apply attention mechanism to singing voice separation
    * Aug. 2019 - Oct. 2019
-   * Working with the researcher from Tencent Inc., I proposed an end-to-end neural network based on
+   * I proposed an end-to-end neural network based on
 self-attention layer, which focuses on the singing voice separation task. It works on spectrogram
 domain, which can separate songs into accompaniments and vocals;
    * Compared with the baselines, the evaluation metric of our model is greatly improved while the
