@@ -14,7 +14,7 @@ redirect_from:
   * The attention mechanism can quickly capture the information that needs to be focused on in the picture, thus improving the accuracy of subtitles.
   * We are committed to proposing a more complete attentional mechanism
  
- * TF-Attention-Net: An Neural Network for Singing Voice Separation
+ * Apply attention mechanism to singing voice separation
    * Aug. 2019 - Oct. 2019
    * Working with the researcher from Tencent Inc., I proposed an end-to-end neural network based on
 self-attention layer, which focuses on the singing voice separation task. It works on spectrogram
