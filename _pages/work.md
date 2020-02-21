@@ -20,7 +20,7 @@ redirect_from:
 number of model parameters is significantly reduced.
 
 * MobileNet: A Lightweight Neural Network for Image Recognition
-  * This is a lightweight network proposed by Google in 2017, and I tried to reproduce the networkon my own for image recognition on CIFAR10 datasets with Pytorch, which only uses 10 layers ofCNN without MaxPooling layer but achieved 92% accuracy.
+  * This is a lightweight network proposed by Google in 2017, and I tried to reproduce the network on my own for image recognition on CIFAR10 datasets with Pytorch, which only uses 10 layers ofCNN without MaxPooling layer but achieved 92% accuracy.
   
 * Implement Machine Learning Algorithms Without Framework
   * Implemented some machine learning algorithms with pure Python on my own, including K-Meansand AGNES Clustering, Bayesian Classification, Logistic Regression, ID3 Decision Tree and so on.
