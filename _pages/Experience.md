@@ -12,7 +12,7 @@ redirect_from:
 * Student Research Assistant at Tianjin Key Laboratory of Autonomous Intelligence Technology and Systems
   * Oct. 2019 - Present
   * Tianjin, China
-  * Supervised by Prof. Jianmin Wang
+  * Supervised by Prof. Jianming Wang
   * I master some basic knowledge about Computer Vision andNatural Language Processing, such as canny detector, sobel operator that used for edge detection,seq2seq, word2vec, attention mechanism and language model like Transformer and BERT.
 * MLA 2019
   * Nov. 2019
