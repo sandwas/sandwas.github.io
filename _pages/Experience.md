@@ -13,10 +13,12 @@ redirect_from:
   * Oct. 2019 - Present
   * Tianjin, China
   * Supervised by Prof. Jianmin Wang
-  * Explore reinforcement learning in  computer vision and nlp
+  * I master some basic knowledge about Computer Vision andNatural Language Processing, such as canny detector, sobel operator that used for edge detection,seq2seq, word2vec, attention mechanism and language model like Transformer and BERT.
+* MLA 2019
+  * Nov. 2019
+  * Tianjin, China
+  * Attended a conference called The 17th China conference on machine learning and its applications,where I listened to the presentation of professors from universities all over China.
 * Intership at Red dot intelligent technology co. LTD
   * Tianjin, China
-  * Product background management system
-* MLA 2019
-  * The 17th China conference on machine learning and its applications
-  * Tianjin, China
+  * Our  team  worked  in  a  project  called  product  background  management  system,  where  the  thefront-end uses the adminLTE framework, and the back-end is based on the integration frameworkoracle database of springMVC, spring and mybatis.
+
