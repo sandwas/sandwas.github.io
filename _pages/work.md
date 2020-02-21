@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 * Image caption generation algorithm based on attention mechanism
-  * Nov.2019-Now
+  * Nov.2019-Present
   * The attention mechanism can quickly capture the information that needs to be focused on in the picture, thus improving the accuracy of subtitles.
   * We are committed to proposing a more complete attentional mechanism
  
