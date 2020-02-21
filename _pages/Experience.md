@@ -17,7 +17,4 @@ redirect_from:
 * MLA 2019
   * The 17th China conference on machine learning and its applications
   * Tianjin, China
-* Student  at [TGU](<http://www.tjpu.edu.cn/>)
-  * Sep. 2016 - May. 2019
-  * Supervised by Prof. [Jianmin Wang](<https://daoshi.eol.cn/tutor/34103>)
-  * Tianjin, China
+
