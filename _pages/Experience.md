@@ -14,7 +14,9 @@ redirect_from:
   * Tianjin, China
   * Supervised by Prof. Jianmin Wang
   * Explore reinforcement learning in  computer vision and nlp
+*Intership at Red dot intelligent technology co. LTD
+  *Tianjin, China
+  *Product background management system
 * MLA 2019
   * The 17th China conference on machine learning and its applications
   * Tianjin, China
-
