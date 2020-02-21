@@ -11,15 +11,16 @@ redirect_from:
 
 * Image caption generation algorithm based on attention mechanism
   * Nov.2019-Present
-  * The attention mechanism can quickly capture the information that needs to be focused on in the picture, thus improving the accuracy of subtitles.
-  * We are committed to proposing a more complete attentional mechanism
+  * I used CNN to extract the features of the image, and then extract the first feature point of theimage through the Attention mechanism (select the one with the highest correlation).
  
  * Apply attention mechanism to singing voice separation
    * Aug. 2019 - Oct. 2019
-   * I proposed an end-to-end neural network based on
-self-attention layer, which focuses on the singing voice separation task. It works on spectrogram
-domain, which can separate songs into accompaniments and vocals;
+   * We  proposed  an  end-to-end  neural  network  based  on  self-attention  layer,  which  focuses  on  thesinging  voice  separation  task.   It  works  on  spectrogram  domain,  which  can  separate  songs  intoaccompaniments and vocals;
    * Compared with the baselines, the evaluation metric of our model is greatly improved while the
 number of model parameters is significantly reduced.
 
+* MobileNet: A Lightweight Neural Network for Image Recognition
+  * This is a lightweight network proposed by Google in 2017, and I tried to reproduce the networkon my own for image recognition on CIFAR10 datasets with Pytorch, which only uses 10 layers ofCNN without MaxPooling layer but achieved 92% accuracy.
   
+* Implement Machine Learning Algorithms Without Framework
+  * Implemented some machine learning algorithms with pure Python on my own, including K-Meansand AGNES Clustering, Bayesian Classification, Logistic Regression, ID3 Decision Tree and so on.
