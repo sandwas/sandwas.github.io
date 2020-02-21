@@ -19,6 +19,7 @@ redirect_from:
   * Tianjin, China
   * Attended a conference called The 17th China conference on machine learning and its applications,where I listened to the presentation of professors from universities all over China.
 * Intership at Red dot intelligent technology co. LTD
+  * Sep. 2017 - Aug. 2018
   * Tianjin, China
   * Our  team  worked  in  a  project  called  product  background  management  system,  where  the  thefront-end uses the adminLTE framework, and the back-end is based on the integration frameworkoracle database of springMVC, spring and mybatis.
 
